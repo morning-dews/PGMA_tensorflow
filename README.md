@@ -1,6 +1,12 @@
 # Parameter Generation and Model Adaptation(PGMA)
 
-This is an implementation of [Overcoming Catastrophic Forgetting for Continual Learning via Model Adaptation(Hu et al.,2018)](https://openreview.net/forum?id=ryGvcoA5YX)
+This is an implementation of [Overcoming Catastrophic Forgetting for Continual Learning via Model Adaptation(Hu et al.,2018)](https://openreview.net/forum?id=ryGvcoA5YX) in disjoint MNIST setting.
+
+#### Requirements
+- Python 3.5
+- tensorflow 1.4
+
+#### Explanations
 
 `wae.py` is based on the implementation of WAE. It defines the network structure and training procedure of our model.
 
