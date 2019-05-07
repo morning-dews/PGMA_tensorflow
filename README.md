@@ -10,4 +10,4 @@ This is an implementation of [Overcoming Catastrophic Forgetting for Continual L
 
 `run.py` is the main script to train and test our model.
 
-`ops.py` and `utils.py` define operations and functions utilized in `wae.py`.
+`ops.py` and `models.py` define operations and functions utilized in `wae.py`.
